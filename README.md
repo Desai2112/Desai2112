@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Desai Om</h1>
 <h3 align="center">Student</h3>
 
-- 🌱 I’m currently learning **Java Programming**
+- 🌱 I’m currently learning **Express Js**
 
 - 📫 How to reach me **omdesai2112@gmail.com**
 
