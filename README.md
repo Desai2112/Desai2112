@@ -11,12 +11,16 @@
 - Databases: MongoDB
 
 ## 🌟 Featured Projects
-1. **Account Master**
+1. **OrganicTrace**(Currently Working)
+   - Organic food tracebility system using blockchain
+   - Tech: Node.js, Express.js, MongoDB,React.js, Ethereum, Solidity
+2. **Flexi Work**
    - Freelancing platform for the small workers
    - Tech: Node.js, Express.js, MongoDB,React.js
-2. **FitBuddy**
+3. **FitBuddy**
    - Healthand fitness website with digital health vault to store documents
    - Tech: Node.js, Express.js, MongoDB,React.js
+
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=desai2112&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
