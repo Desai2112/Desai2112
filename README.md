@@ -28,6 +28,3 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=desai2112&theme=dark&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=desai2112&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/om-desai-aa38a7250])
