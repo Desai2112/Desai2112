@@ -5,15 +5,15 @@
 🧠 Currently deepening my expertise in Node.js, Express.js and Data Structures & Algorithms
 
 ## 🛠 Tech Stack
-- Languages: JavaScript, TypeScript, C/C++
-- Backend: Node.js, Express.js
+- Languages: JavaScript, TypeScript, C/C++, C#
+- Backend: Node.js, Express.js, dotnet
 - Frontend: React.js,
-- Databases: MongoDB
+- Databases: MongoDB, cosmosDb
 
 ## 🌟 Featured Projects
-1. **OrganicTrace**(Currently Working)
-   - Organic food tracebility system using blockchain
-   - Tech: Node.js, Express.js, MongoDB,React.js, Ethereum, Solidity
+1. **OrganicTrace**
+   - Organic food tracebility system 
+   - Tech: Node.js, Express.js, MongoDB,React.js
 2. **Flexi Work**
    - Freelancing platform for the small workers
    - Tech: Node.js, Express.js, MongoDB,React.js
